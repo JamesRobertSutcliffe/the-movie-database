@@ -1,5 +1,5 @@
 # The Movie Database
-This project is a simple web application that allows users to search for movies using the OMDb API and displays the results on the page. Users can also add movies to a list of saved movies and view them later. The project was created in a group setting utilising git for version control. 
+This project is a web application that allows users to search for movies using the OMDb API and displays the results on the page. Users can also add movies to a list of saved movies and view them later. The project was created in a group setting utilising git for version control. 
 
 ![movie-database](./assets/images/Screenshot.png)
 
